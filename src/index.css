@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+*{
+    font-family: "Be Vietnam Pro", serif;
+}
+
+body {
+    background-image: url('./assets/images/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
